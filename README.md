@@ -1,2 +1,22 @@
 # ARACNID
-The project consists of a four-legged robotic spider that will move autonomously, avoiding collisions with objects and having the ability to perform some tricks. Additionally, it will feature a manual mode, allowing it to be remotely controlled through a controller. 
+
+
+author name: António Silva 
+
+version number:1.0
+
+description of overall functionality: what the code is for: Servos
+
+prerequisites and building/installation instructions (including dependencies, etc.):
+
+
+
+and optionally:
+
+version date (altough git timestamps everything)
+
+other relevant notes
+
+instructions on how to contribute
+
+license
