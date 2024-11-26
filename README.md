@@ -1,7 +1,7 @@
 # ARACNID
 
 
-author name: António Silva 
+author name: António Silva/ Pedro Carvalho
 
 version number:1.0
 
